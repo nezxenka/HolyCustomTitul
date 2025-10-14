@@ -1,0 +1,11 @@
+name: HolyCustomTitul
+version: '1.0'
+main: ru.nezxenka.holycustomtitul.HolyCustomTitul
+api-version: '1.16'
+author: nezxenka
+commands:
+  customtitul: {}
+  customtitles:
+    permission: holycustomtitul.admin
+  tituladmin:
+    permission: holycustomtitul.tituladmin
