@@ -1,0 +1,11 @@
+type: "sqlite"
+mysql:
+  host: "localhost"
+  port: 3306
+  database: "customtutil"
+  username: "root"
+  password: "pass"
+  useSSL: false
+  autoReconnect: true
+sqlite:
+  filename: "titles.db"

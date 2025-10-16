@@ -1,0 +1,27 @@
+decor:
+  1:
+    material: CYAN_STAINED_GLASS_PANE
+    name: " "
+  2:
+    material: ORANGE_STAINED_GLASS_PANE
+    name: " "
+titul_approved:
+  name: " "
+  lore:
+    - " &x&5&A&D&9&F&B&l&n▍&f Титул: &x&5&A&D&9&F&B%titul%"
+    - " &x&5&A&D&9&F&B&l&n▍&f Статус: &x&3&5&F&F&0&0✔ &fОдобрен"
+    - " &x&5&A&D&9&F&B&l▍&f Дата выдачи: &x&5&A&D&9&F&B%time%"
+    - " "
+    - " &x&5&A&D&9&F&B[ЛКМ] &f- установить титул"
+titul_pending:
+  name: " "
+  lore:
+    - " &x&5&A&D&9&F&B&l&n▍&f Титул: &x&5&A&D&9&F&B%titul%"
+    - " &x&5&A&D&9&F&B&l▍&f Статус: &x&F&F&2&7&0&0✘ &fНа модерации"
+    - " "
+clear:
+  material: BARRIER
+  name: "&x&F&F&2&7&0&0✘ &fУбрать титул в табе и чате"
+menu:
+  material: ITEM_FRAME
+  name: " &x&5&A&D&9&F&B❏ Меню создания титула ❏"
